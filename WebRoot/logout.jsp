@@ -29,7 +29,7 @@
 		response.setHeader("refresh", "2;URL=index.jsp");
 		session.invalidate();//是session失效；
 	%>
-	<h2>您已经退出本系统，两秒种后将自动转回登录页！</h2>
+	<h2>您cnm</h2>
 	<h3>
 		如果没有跳转，请点击<a href="index.jsp">这里</a>
 	</h3>
